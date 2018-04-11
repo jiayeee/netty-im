@@ -9,7 +9,7 @@
 
     <version>1.0-SNAPSHOT</version>
 
-    <name>learn-netty-im Maven Webapp</name>
+    <name>learn-netty Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
     <dependencies>
@@ -118,7 +118,7 @@
     </dependencies>
 
     <build>
-        <finalName>learn-netty-im</finalName>
+        <finalName>learn-netty</finalName>
     </build>
 
 </project>
